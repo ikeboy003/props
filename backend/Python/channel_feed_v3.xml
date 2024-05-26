@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>Example News Feed</title>
+    <link>http://www.example.com/</link>
+    <description>This is an example RSS feed</description>
+    <language>en-us</language>
+    <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>Weblog Editor 2.0</generator>
+    <managingEditor>editor@example.com</managingEditor>
+    <webMaster>webmaster@example.com</webMaster>
+    <item>
+        <title>News Item 1 Title</title>
+        <link>http://www.example.com/news1</link>
+        <description>Description for News Item 1</description>
+    </item>
+    <item>
+        <title>News Item 2 Title</title>
+        <link>http://www.example.com/news2</link>
+        <description>Description for News Item 2</description>
+        <source url="http://www.example.com/source2">Source 2</source>
+    </item>
+    <item>
+        <title>News Item 3 Title</title>
+        <link>http://www.example.com/news3</link>
+        <description>Description for News Item 3</description>
+    </item>
+    <item>
+        <title>News Item 4 Title</title>
+        <link>http://www.example.com/news4</link>
+        <description>Description for News Item 4</description>
+        <source url="http://www.example.com/source4">Source 4</source>
+    </item>
+    <item>
+        <title>News Item 5 Title</title>
+        <link>http://www.example.com/news5</link>
+        <description>Description for News Item 5</description>
+    </item>
+    <item>
+        <title>News Item 6 Title</title>
+        <link>http://www.example.com/news6</link>
+        <description>Description for News Item 6</description>
+        <source url="http://www.example.com/source6">Source 6</source>
+    </item>
+    <item>
+        <title>News Item 7 Title</title>
+        <link>http://www.example.com/news7</link>
+        <description>Description for News Item 7</description>
+    </item>
+    <item>
+        <title>News Item 8 Title</title>
+        <link>http://www.example.com/news8</link>
+        <description>Description for News Item 8</description>
+        <source url="http://www.example.com/source8">Source 8</source>
+    </item>
+    <item>
+        <title>News Item 9 Title</title>
+        <link>http://www.example.com/news9</link>
+        <description>Description for News Item 9</description>
+    </item>
+    <item>
+        <title>News Item 10 Title</title>
+        <link>http://www.example.com/news10</link>
+        <description>Description for News Item 10</description>
+        <source url="http://www.example.com/source10">Source 10</source>
+    </item>
+</channel>
